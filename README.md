@@ -49,5 +49,6 @@ Aqui estão algumas das ferramentas que domino ou cujos frameworks de automaçã
 ### 🤝 Vamos nos conectar?
 Estou sempre aberto a conexões profissionais, discussões técnicas sobre Engenharia de Software e novas oportunidades de mercado.
 
-- 💼 **LinkedIn:** [Jorge Henrique Silva Trevisan]([https://linkedin.com](https://www.linkedin.com/in/jorge-henrique-silva-trevisan-60b00b23/))
+- 💼 **LinkedIn:** [Jorge Henrique Silva Trevisan](https://www.linkedin.com/in/jorge-henrique-silva-trevisan-60b00b23/)
+
 - 📧 **E-mail:** [Seu E-mail Profissional Aqui]
